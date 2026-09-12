@@ -1,0 +1,10 @@
+{
+  "name": "Weather Detector",
+  "description": "Real-time weather detection and atmospheric forecast by location or city search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
